@@ -1,0 +1,5 @@
+"vaccines":[
+    {"name":"pfizer"},
+    {"name":"covaxin"},
+    {"name":"covishield"}
+]
