@@ -28,7 +28,7 @@ app.use((req, res, next) => {
 });
 
 //Route middleware
-app.use(AdminRouter)
+app.use("/api",AdminRouter);
 
 //app.use('/api/posts',postRoute);
 
